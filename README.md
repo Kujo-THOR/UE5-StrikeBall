@@ -1,4 +1,4 @@
-# UE5 StrikeBall
+# UE5 Second Project
 ## Welcome
 ## That's the Second Project in Unreal Engine 5.
 ### Link: https://youtu.be/FwSyRV0F3iE
